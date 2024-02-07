@@ -1,6 +1,6 @@
 # Hello, I'm Ziad! 👋
 
-🌱 I'm currently learning C#, C/C++.
+🌱 I'm currently learning C#, C/C++, Python, Data Science.
 
 💡 I'm interested in AI and GUI.
 
