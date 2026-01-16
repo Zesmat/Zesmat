@@ -10,12 +10,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI/ML Engineer** focused on building intelligent systems that solve real-world problems. Currently diving deep into **Machine Learning**, **Artificial Intelligence**, and **Data Science** to create impactful solutions.
+I'm a passionate **AI/ML Enthusiast** focused on building intelligent systems that solve real-world problems. Currently diving deep into **Machine Learning**, **Artificial Intelligence**, and **Data Science** to create impactful solutions.
 
-- 🔭 Currently working on **RAG Systems** and **Smart Environment Control**
 - 🌱 Learning **Advanced ML Algorithms**, **Deep Learning**, and **LLM Applications**
 - 💡 Interested in **Computer Vision**, **NLP**, and **Intelligent Automation**
-- 🎯 2026 Goal: Contribute to open-source AI projects and build production-ready ML systems
 
 ---
 
